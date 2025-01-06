@@ -16,7 +16,7 @@ const users = [
     username: "SeoHyun",
     company: "Dongseo",
     position: "Student",
-    img: "스크린샷 2025-01-06 221457.png",
+    img: "blogprofile.jpg",
   },
 ];
 
