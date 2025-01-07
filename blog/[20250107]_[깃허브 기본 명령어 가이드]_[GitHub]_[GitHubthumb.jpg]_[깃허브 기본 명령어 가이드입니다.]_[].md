@@ -2,7 +2,7 @@
 
 Git 설치 https://git-scm.com/
 
-- 설치 완료 후 Git bash 열어 환경설정
+-   설치 완료 후 Git bash 열어 환경설정
 
     **git config --global user.name "your_name"**: 유저 이름 설정
 
