@@ -156,7 +156,7 @@ func main() {
 #### 0. Git 설치 및 환경설정 🔍
 Git 설치 https://git-scm.com/\n
 - 설치 완료 후 Git bash 열어 환경설정
-**git config --global user.name "your_name"**: 유저 이름 설정
+**git config --global user.name "your_name"**: 유저 이름 설정  
 **git config --global user.email "your_email"**: GitHub 가입 시 사용한 이메일
 **git config --list**: 정보 확인
 #### 1. 초기화 및 기본 설정
